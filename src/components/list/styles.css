@@ -1,0 +1,21 @@
+.title { 
+    margin-bottom:20px; 
+    width: 100% !important;
+    color: #444;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+table thead.head {
+    color: #555;
+    font-size: 14px;
+    padding: 5px;
+}
+
+table thead tr th{
+    border-top-color: white;
+}

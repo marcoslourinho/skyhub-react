@@ -1,0 +1,22 @@
+.brand{
+    width: 130px !important;
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #eee !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    position: relative;
+    z-index: 1;
+}
+
+.header-left{
+    text-align: left;	
+}
+
+.header-left img {
+    width: 25%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

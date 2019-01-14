@@ -1,0 +1,17 @@
+/*--
+Author: Marcos Pereira Lourinho
+Github: marcoslourinho.github.io
+Project: skyhub
+--*/
+
+html, body{
+	margin:0;
+	font-size: 100%;
+	font-family: 'Lato', sans-serif;
+	background: #fff;
+	color: #808d9e;
+}
+
+section{
+	margin-bottom: 30px;
+}
